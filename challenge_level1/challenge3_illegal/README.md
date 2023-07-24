@@ -1,0 +1,1 @@
+Issue was exception handler jumping back to illegal instruction which again raises exception creating a never ending loop. In the exception handler, jumping to a routine that ends the program solves the problem.
