@@ -1,1 +1,1 @@
-Changes rel_rv64m to 0 in the rv32i.yml file because it is 32-bit testing and we want to set distribution of all 64-bit instructions to zero.
+Sets rel_rv64m to 0 in the rv32i.yml file because it is 32-bit testing and we want to set distribution of all 64-bit instructions to zero.
