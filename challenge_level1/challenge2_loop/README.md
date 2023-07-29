@@ -1,2 +1,3 @@
 Issue was test not exiting out of loop.
 Added a decrementing counter initialized to 3, decrement on each iteration and break out of the loop if the counter reaches zero. Initialized to 3 since there are 3 testcases.
+![Bug fix screenshot](image.png)
