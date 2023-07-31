@@ -5,7 +5,8 @@
 4. If coverage satisfactory, end. Else go back to step 1.
 
 ## Test fails:
-1. Or immediate instruction is failing.
-2. 
+1. Or instruction is failing incorrect answer
+2. Or immediate instruction is failing incorrect answer
 
 ## Failing screenshots
+![Failing or instruction](image.png)
