@@ -90,12 +90,6 @@
   iterations: 1
   asm_test: test.S
 
-- test: custom_directed_test_two
-  description: >
-    Custom directed assembly test
-  iterations: 1
-  asm_test: /workspaces/riscv-ctb-challenge-ShashankVM/challenge_level3/directed_test/test.S
-
 - test: riscv_rand_jump_test
   description: >
     Jump among large number of sub-programs, stress testing iTLB operations.
